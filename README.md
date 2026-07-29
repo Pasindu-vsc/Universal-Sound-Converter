@@ -15,6 +15,8 @@ A sleek, lightweight desktop software built in Python using **CustomTkinter** th
 
 ## Installation & Usage 🛠️
 
+Install GIT if you don't have it.  -Link  --->  https://git-scm.com/install/windows
+
 1. **Clone this repository:**
    ```bash
     git clone https://github.com/Pasindu-vsc/Universal-Sound-Converter.git
