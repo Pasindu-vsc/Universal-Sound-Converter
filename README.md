@@ -17,7 +17,7 @@ A sleek, lightweight desktop software built in Python using **CustomTkinter** th
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com
+    git clone https://github.com/Pasindu-vsc/Universal-Sound-Converter.git
    ```
 
 2. **Navigate into the cloned folder:**
