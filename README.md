@@ -17,9 +17,8 @@ A sleek, lightweight desktop software built in Python using **CustomTkinter** th
 
 1. **Clone this repository:**
    ```bash
-  git clone https://github.com
+  https://github.com
   universal-Sound-Converter
-
    ```
 
 2. **Install requirements:**
