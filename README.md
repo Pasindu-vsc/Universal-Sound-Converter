@@ -17,19 +17,21 @@ A sleek, lightweight desktop software built in Python using **CustomTkinter** th
 
 1. **Clone this repository:**
    ```bash
-    git clone https://github.com/Pasindu-vsc/Universal-Sound-converter
+   git clone https://github.com
    ```
 
+2. **Navigate into the cloned folder:**
+   *(Crucial Step: You must move your terminal inside the project directory for the installation scripts to work!)*
+   ```bash
+   cd Universal-Sound-Converter
+   ```
+
+3. **Install requirements:**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Launch the software:**
+4. **Launch the software:**
    ```bash
-    python sound_converter.py
+   python sound_converter.py
    ```
-
----
-*Built with operational assistance from Google Gemini.*
-
-*Please star this project if you really like this project*
